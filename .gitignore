@@ -1,0 +1,7 @@
+.venv/
+haha_task2_ckpt*/
+*.zip
+.DS_Store
+task2_dev_submission*.tsv
+task2_test_submission*.tsv
+task2_eda.png
